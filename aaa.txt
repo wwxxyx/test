@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cccccccccccccccccccccccccccccccccccc
 ccccccccccccccccccccccccccccc
 ccccccccccccccccc
@@ -5,3 +6,10 @@ ccccccccccc
 cccccc
 cc
 c
+=======
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+>>>>>>> bbb
